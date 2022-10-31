@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Sumit",
+      "email": "sumit@gmail.com",
+      "designation": "trainee",
+      "salary": "40000",
+      "id": 1
+    },
+    {
+      "name": "Deepali",
+      "email": "deepali@gmail.com",
+      "designation": "Trainee",
+      "salary": "40000",
+      "id": 2
+    },
+    {
+      "name": "Mayur",
+      "email": "mayur@gmail.com",
+      "designation": "Manager",
+      "salary": "80000",
+      "id": 3
+    },
+    {
+      "name": "Aditya",
+      "email": "aditya@gmail.com",
+      "designation": "Associate engineer",
+      "salary": "4625",
+      "id": 4
+    },
+    {
+      "name": "Leena",
+      "email": "leena@gmail.com",
+      "designation": "Engineer",
+      "salary": "60000",
+      "id": 5
+    },
+    {
+      "name": "virat",
+      "email": "virat@gmail.com",
+      "designation": "manager",
+      "salary": "60000",
+      "id": 6
+    }
+  ]
+}
